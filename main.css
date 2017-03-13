@@ -19,7 +19,7 @@ body {
 
 .header {
 	margin-top: 20px;
-	font-size: 32px;
+	font-size: 50px;
 	color: white;
 	/*width: 300px;*/
 	height: auto;
@@ -33,12 +33,12 @@ button {
 	margin-top: 20px;
 	border: 7px solid white;
 	color: white;
-	font-size: 25px;
+	font-size: 50px;
 	padding: 15px;
 	width: 100%;
 	background-color: #9BC2CF;
 	font-weight: bold;
-	height: 75px;
+	height: 120px;
 }
 
 button:hover {
@@ -48,10 +48,10 @@ button:hover {
 
 #change {
 	margin: auto;
-	margin-top: 25px;
+	margin-top: 20px;
 	border: 7px solid white;
 	color: white;
-	font-size: 24px;
+	font-size: 45px;
 	padding: 15px;
 	/*width: 300px;*/
 	background-color: #9BC2CF;
